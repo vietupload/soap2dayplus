@@ -4,4 +4,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-SITE.pages.dev/sitemap.xml
+Sitemap: https://soap2dayplus.pages.dev/sitemap.xml
